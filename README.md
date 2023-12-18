@@ -2,11 +2,11 @@
 
 # Desenvolvimento Profissional em HTML5: Uma Jornada de Aprendizado na One Bit Code
 
-Utilizei meu conhecimento que obtive no curso para criar um artigo.
+Utilizei meu conhecimento que obtive no curso para criar um formulario em html.
 
 ## 🔥 Introdução
 
-Ao longo do meu percurso educacional na One Bit Code, tive a oportunidade de aprimorar minhas habilidades em desenvolvimento web, culminando na criação de um artigo em HTML que incorpora diversos elementos essenciais. Este texto visa compartilhar a experiência de como utilizei parágrafos, títulos, elementos de imagem e atributos, além de abordar técnicas de formatação e otimização de imagens.
+Ao longo do meu percurso educacional na One Bit Code, tive a oportunidade de aprimorar minhas habilidades em desenvolvimento web, culminando na criação de um formulario em HTML que incorpora diversos elementos essenciais. Este texto visa compartilhar a experiência de como utilizei forms, inputs, texterea, além de abordar técnicas de inputs e checkbox.
 
 ## 📦 Tecnologias usadas:
 
